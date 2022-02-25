@@ -1,4 +1,4 @@
-// Only 53% for now
+// TODO 53% -> 100%
 public class L9_MaxDoubleSliceSum
 {
 	public static void main(String[] args) {
